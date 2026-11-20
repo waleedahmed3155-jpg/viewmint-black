@@ -1,0 +1,12 @@
+name: viewmint_app
+description: ViewMint - TikTok Clone
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+flutter:
+  uses-material-design: true
